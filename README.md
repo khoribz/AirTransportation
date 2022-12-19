@@ -8,3 +8,4 @@ There is a database of air transportation in 2017.
 **src/main/java/com.khoribz/service/db** - creation, filling, removal of the databases, JDBC template  
 **src/main/java/com.khoribz/App** - program start  
 **src/main/java/com.khoribz/Queries** - database queries   
+**src/main/resources** - SQL code for **CRUD**  
